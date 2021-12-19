@@ -1,10 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAdE6ZPQGCpZL2YHJEqZcKkyxHqnBM7EI8",
-    authDomain: "joxiplayer-data.firebaseapp.com",
-    databaseURL: "https://joxiplayer-data-default-rtdb.firebaseio.com",
-    projectId: "joxiplayer-data",
-    storageBucket: "joxiplayer-data.appspot.com",
-    messagingSenderId: "1057864895288",
-    appId: "1:1057864895288:web:c5204c68c2570d1b2fcfcd",
+    apiKey: "AIzaSyCG_92OLetfydA6KDg2kwweJF4bf4hG7Jw",
+  authDomain: "joxiplayer-site.firebaseapp.com",
+  databaseURL: "https://joxiplayer-site-default-rtdb.firebaseio.com",
+  projectId: "joxiplayer-site",
+  storageBucket: "joxiplayer-site.appspot.com",
+  messagingSenderId: "288570493379",
+  appId: "1:288570493379:web:8c1168c876624cc6a95576",
+  measurementId: "G-4J03BRQ7Y1"
 };
 const app = firebase.initializeApp(firebaseConfig);
